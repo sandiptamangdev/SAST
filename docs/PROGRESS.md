@@ -25,8 +25,6 @@ Practiced creating, reading, and appending to files in Python.
 **🔒 Security Findings:**
 * 
 
----
-
 ### [2025-12-16]
 **📚 What I Learned:**
 - File input output operation.
@@ -38,6 +36,17 @@ Practiced creating, reading, and appending to files in Python.
 - Reading 1 character at a time
 
 **⏱️ Time Spent:** NaN
+
+### [2025-12-16]
+**📚 What I Learned:**
+- File input output operation.
+
+**💻 What I Built:**
+- completed from Q9 to Q10
+
+**⏱️ Time Spent:** NaN
+
+
 
 ## 📋 Project Tasks Checklist
 
