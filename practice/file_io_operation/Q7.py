@@ -4,5 +4,6 @@
 with open("hello.txt", "w") as f:
     f.write("Hello World!")
 
+
 with open("hello.txt", "r") as f:
     print(f.read())

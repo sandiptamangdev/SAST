@@ -12,8 +12,7 @@ with open("number.txt", "r") as f:
     lines = [line.strip() for line in f]
     # list in python are [] made.
     # why does it know lines line is the 1 line then?
-        # line is a temporary var that is used to store the line of of the lines in the file to make it into the list.
-    
+        # line is a temporary var that is used to store the line of of the lines in the file to make it into the list.  
     print(lines)
 
 

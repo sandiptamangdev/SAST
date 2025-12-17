@@ -3,7 +3,7 @@
 
 # if there is line by line then use loop.
 # if there is line number then use enumerate.
-# .strip() is same as trim() in js that removes the spaces in the front and back of the sentence, word.
+# .strip() is same as .trim() in js that removes the spaces in the front and back of the sentence, word.
 
 
 # open the file 'number.txt' in read mode.
