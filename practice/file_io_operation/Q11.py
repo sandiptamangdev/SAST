@@ -12,3 +12,16 @@
 # reversing how to do that.
 # maybe we take the lines as list and then make the list change the text order and then paste back that to the file.
 
+with open("source.txt", "r") as f:
+    lines = f.readlines()
+
+lines.reverse()
+
+with open("source.txt", "w", encoding="UTF-8") as f:
+    f.writelines(lines)
+
+# with open("source.txt", "a") as f:
+#     f.write("\npraise the fool")
+
+
+
